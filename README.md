@@ -15,16 +15,16 @@ Reinforcement learning is an area of machine learning concerned with how softwar
 Q-learning is a model-free reinforcement learning algorithm. The goal of Q-learning is to learn a policy, which tells an agent what action to take under what circumstances. It does not require a model (hence the connotation "model-free") of the environment, and it can handle problems with stochastic transitions and rewards, without requiring adaptations.
 
 # Installation
-Fork the repository, open the folder in terminal and follow the commands given below.
+Fork the repository, open the terminal using `ctrl+alt+t` and follow the commands given below.
 
-## Linux / macOS
+## Linux
 ```
 cd <path-to-the-folder>
 
 pip3 install -r  Requirement.txt
 ```
 
-After succesfull installation use the below command to run the program. 
+After succesfull installation use the below command in terminal to run the program. 
 
 ```
 cd <path-to-the-folder>
