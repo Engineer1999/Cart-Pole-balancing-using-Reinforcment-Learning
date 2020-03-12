@@ -24,7 +24,7 @@ cd <path-to-the-folder>
 pip3 install -r  Requirement.txt
 ```
 
-After succesfull installation use the below command in terminal to run the program. 
+After succesfull installation close the terminal and again open it, use the below command in terminal to run the program. 
 
 ```
 cd <path-to-the-folder>
