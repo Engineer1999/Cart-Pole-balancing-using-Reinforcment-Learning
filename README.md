@@ -20,8 +20,7 @@ Fork the repository, open the folder in terminal and follow the commands given b
 ## Linux / macOS
 ```
 cd <path-to-the-folder>
-```
-```
+
 pip3 install -r  Requirement.txt
 ```
 
@@ -29,7 +28,6 @@ After succesfull installation use the below command to run the program.
 
 ```
 cd <path-to-the-folder>
-```
-```
+
 python3 CartPole.py
 ```
