@@ -16,8 +16,6 @@ state_value_bounds = list(zip(environment.observation_space.low, environment.obs
 action_index = len(no_buckets)
 
 q_value_table = np.zeros(no_buckets + (no_actions,))
-print(q_value_table)
-print(no_buckets + (no_actions,))
 min_explore_rate = 0.01
 min_learning_rate = 0.1
 
